@@ -1,1 +1,1 @@
-registry.inspurcloud.cn/library/cke/calico/ctl-mips64el:v3.8.0
+FROM registry.inspurcloud.cn/library/cke/calico/ctl-mips64el:v3.8.0
