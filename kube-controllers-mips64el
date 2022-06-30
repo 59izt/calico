@@ -1,0 +1,1 @@
+FROM registry.inspurcloud.cn/library/cke/calico/kube-controllers-mips64el:v3.8.0
